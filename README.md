@@ -1,6 +1,8 @@
 # BlogWeb
 The code is working 
 
+Please download the essential plugins 
+
 superuser- 
 id = rahul
 password = 12345678
